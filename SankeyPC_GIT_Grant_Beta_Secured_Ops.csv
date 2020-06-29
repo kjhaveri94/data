@@ -11,7 +11,7 @@ Buildings (General),Buildings,3,Building decarbonization,66,8,2396473.11,#ebc334
 Pathways to Zero,Buildings,6,Building decarbonization,66,9,114604.13,#ebc334,,Pathways to Zero,9,0.5,0.19,,Pathways to Zero
 Residential Energy +,Buildings,3,Building decarbonization,66,10,0,#ebc334,,Residential Energy +,10,0.5,0.21,,Residential Energy +
 Portfolio Energy Optimization,Buildings,5,Building decarbonization,66,11,0,#ebc334,,Portfolio Energy Optimization,11,0.5,0.23,,Portfolio Energy Optimization
-Global Cooling Prize,Buildings,4,Breakthrough technology,66,12,1811949.55,#ebc334,,Global Cooling Prize,12,0.5,0.25,,Global Cooling Prize
+Global Cooling Prize,Buildings,4,Building decarbonization,66,12,1811949.55,#ebc334,,Global Cooling Prize,12,0.5,0.25,,Global Cooling Prize
 Realize,Buildings,4,Building decarbonization,66,13,0,#ebc334,,Realize,13,0.5,0.27,,Realize
 NEMO,Building Electrification,6,Building decarbonization,67,15,4812526.31,#d6eb34,,Building Electrification (General),14,0.5,0.29,,Admin (BEL)
 NEMO,Building Electrification,1,Building decarbonization,67,15,44770.89,#d6eb34,,NEMO,15,0.5,0.31,,NEMO
@@ -22,10 +22,10 @@ Utility Models,Electricity,,Power sector decarbonization,68,19,0,#77eb34,,Utilit
 eLab,Electricity,4,Power sector decarbonization,68,20,170175.68,#77eb34,,eLab,20,0.5,0.41,,eLab
 Shine,Electricity,2,Legacy,68,21,0,#77eb34,,Shine,21,0.5,0.43,,Shine
 Business models and regulatory design,Electricity,8.7,Power sector decarbonization,68,22,372236.98,#77eb34,,Business models and regulatory design,22,0.5,0.45,,Business models and regulatory design
-Zero carbon cities implementation,China,1,China Strategy,69,24,1311904.93,#34ebc3,,Admin (CHN),23,0.5,0.47,,Admin (CHN)
-Zero carbon cities implementation,China,7,China Strategy,69,24,385287.94,#34ebc3,,Zero carbon cities implementation,24,0.5,0.49,,Zero carbon cities implementation
-Power market reform,China,6,China Strategy,69,25,780000,#34ebc3,,Power market reform,25,0.5,0.51,,Power market reform
-Harder to abate,China,7,China Strategy,69,26,2771990.51,#34ebc3,,Harder to abate,26,0.5,0.53,,Harder to abate
+Zero carbon cities implementation,China,1,Urban transformation,69,24,1311904.93,#34ebc3,,Admin (CHN),23,0.5,0.47,,Admin (CHN)
+Zero carbon cities implementation,China,7,Urban transformation,69,24,385287.94,#34ebc3,,Zero carbon cities implementation,24,0.5,0.49,,Zero carbon cities implementation
+Power market reform,China,6,Power sector decarbonization,69,25,780000,#34ebc3,,Power market reform,25,0.5,0.51,,Power market reform
+Harder to abate,China,7,Climate-aligned sectors,69,26,2771990.51,#34ebc3,,Harder to abate,26,0.5,0.53,,Harder to abate
 US Mobility (General),Mobility,,Mobility decarbonization,70,27,345754.8,#34c9eb,,US Mobility (General),27,0.5,0.55,,Admin (Mobility)
 EV grid,Mobility,2,Mobility decarbonization,70,28,0,#34c9eb,,EV grid,28,0.5,0.57,,EV grid
 Mobility Innovation Lab,Mobility,3,Mobility decarbonization,70,29,0,#34c9eb,,Mobility Innovation Lab,29,0.5,0.59,,Mobility Innovation Lab
@@ -76,7 +76,7 @@ Buildings (General),Buildings,3,Building decarbonization,8,84,2396473.11,#ebc334
 Pathways to Zero,Buildings,6,Building decarbonization,9,84,114604.13,#ebc334,,Global Climate Finance,74,0.1,0.86,,Pathways to Zero
 Residential Energy +,Buildings,3,Building decarbonization,10,84,0,#ebc334,,Carbon-Free Cities and Regions,75,0.1,0.95,,Residential Energy +
 Portfolio Energy Optimization,Buildings,5,Building decarbonization,11,84,0,#ebc334,,Emerging Solutions,76,0.9,0.05,,Portfolio Energy Optimization
-Global Cooling Prize,Buildings,4,Breakthrough technology,12,83,1811949.55,#ebc334,,Communications,77,0.9,0.15,,Global Cooling Prize
+Global Cooling Prize,Buildings,4,Building decarbonization,12,84,1811949.55,#ebc334,,Communications,77,0.9,0.15,,Global Cooling Prize
 Realize,Buildings,4,Building decarbonization,13,84,0,#ebc334,,Development,78,0.9,0.25,,Realize
 NEMO,Building Electrification,6,Building decarbonization,15,84,4812526.31,#d6eb34,,Operations,79,0.9,0.35,,Admin (BEL)
 NEMO,Building Electrification,1,Building decarbonization,15,84,44770.89,#d6eb34,,Climate-aligned sectors,80,0.9,0.45,,NEMO
@@ -87,15 +87,15 @@ Utility Models,Electricity,,Power sector decarbonization,19,85,0,#77eb34,,Buildi
 eLab,Electricity,4,Power sector decarbonization,20,85,170175.68,#77eb34,,Power sector decarbonization,85,0.9,0.95,,eLab
 Shine,Electricity,2,Legacy,21,87,0,#77eb34,,Urban transformation,86,,,,Shine
 Business models and regulatory design,Electricity,8.7,Power sector decarbonization,22,85,372236.98,#77eb34,,Legacy,87,,,,Business models and regulatory design
-Zero carbon cities implementation,China,1,China Strategy,24,95,1311904.93,#34ebc3,,Sharing the Power,88,,,,Admin (CHN)
-Zero carbon cities implementation,China,7,China Strategy,24,95,385287.94,#34ebc3,,Implementation unit,89,,,,Zero carbon cities implementation
-Power market reform,China,6,China Strategy,25,95,780000,#34ebc3,,Emerging Solutions [PC],90,,,,Power market reform
-Harder to abate,China,7,China Strategy,26,95,2771990.51,#34ebc3,,US Policy,91,,,,Harder to abate
+Zero carbon cities implementation,China,1,Urban transformation,24,86,1311904.93,#34ebc3,,Sharing the Power,88,,,,Admin (CHN)
+Zero carbon cities implementation,China,7,Urban transformation,24,86,385287.94,#34ebc3,,Implementation unit,89,,,,Zero carbon cities implementation
+Power market reform,China,6,Power sector decarbonization,25,85,780000,#34ebc3,,Emerging Solutions [PC],90,,,,Power market reform
+Harder to abate,China,7,Climate-aligned sectors,26,80,2771990.51,#34ebc3,,US Policy,91,,,,Harder to abate
 US Mobility (General),Mobility,,Mobility decarbonization,27,81,345754.8,#34c9eb,,Communications [PC],92,,,,Admin (Mobility)
 EV grid,Mobility,2,Mobility decarbonization,28,81,0,#34c9eb,,Development [PC],93,,,,EV grid
 Mobility Innovation Lab,Mobility,3,Mobility decarbonization,29,81,0,#34c9eb,,Operations [PC],94,,,,Mobility Innovation Lab
 eBuses/fleets,Mobility,4,Mobility decarbonization,30,81,69183.05,#34c9eb,,China Strategy,95,,,,eBuses/fleets
-Mobility data,Mobility,0,Mobility decarbonization,31,81,0,#34c9eb,,,,,,,Mobility data
+Mobility data,Mobility,0,Mobility decarbonization,31,81,0,#34c9eb,,India Strategy,96,,,,Mobility data
 India Mobility,India,,Mobility decarbonization,32,81,5164027.99,#a6cff7,,,,,,,Admin (India)
 Urban Mobility Lab,India,7.5,Mobility decarbonization,33,81,0,#a6cff7,,,,,,,Urban Mobility Lab
 National Mobility Platform,India,5,Mobility decarbonization,34,81,0,#a6cff7,,,,,,,National Mobility Platform
