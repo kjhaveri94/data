@@ -1,0 +1,131 @@
+﻿Ignore,Ignore,Ignore,Ignore,Source,Target,Value,Color,,Label,Number,X,Y,Left side of sankey below this line,,,,Value,FFS,Multi grant,Total
+Methane,Industry,,Making emissions visible,65,3,50000,#edbd93,,INY (General),0,,,,Admin (INY),,,50000,0,0,50000
+Aviation,Industry,2,Legacy,65,1,0,#edbd93,,Aviation,1,0.5,0.05,,Aviation,,,0,0,0,0
+Freight and transport,Industry,2,Mobility decarbonization,65,2,563850.31,#edbd93,,Freight and transport,2,0.5,0.07,,Freight and transport,,,482181.31,81669,0,563850.31
+Methane,Industry,8,Making emissions visible,65,3,2932909.88,#edbd93,,Methane,3,0.5,0.09,,Methane,,,2765406.38,167503.5,0,2932909.88
+Mining,Industry,7,Legacy,65,4,616830.35,#edbd93,,Mining,4,0.5,0.11,,Mining,,,159448.85,457381.5,0,616830.35
+COMET,Industry,2,Making emissions visible,65,5,225000,#edbd93,,COMET,5,,,,COMET,,,0,225000,0,225000
+Hydrogen,Industry,Not listed,Breakthrough technology,65,6,0,#edbd93,,Hydrogen,6,0.5,0.13,,Hydrogen,,,0,0,0,0
+Green steel,Industry,Not listed,Climate-aligned sectors,65,7,0,#edbd93,,Green steel,7,0.5,0.15,,Green steel,,,0,0,0,0
+Buildings (General),Buildings,3,Building decarbonization,66,8,2396473.11,#ebc334,,Buildings (General),8,0.5,0.17,,Admin (BLD),,,2396473.11,0,0,2396473.11
+Pathways to Zero,Buildings,6,Building decarbonization,66,9,862871.46,#ebc334,,Pathways to Zero,9,0.5,0.19,,Pathways to Zero,,,114604.13,748267.33,0,862871.46
+Residential Energy +,Buildings,3,Building decarbonization,66,10,280000,#ebc334,,Residential Energy +,10,0.5,0.21,,Residential Energy +,,,0,280000,0,280000
+Portfolio Energy Optimization,Buildings,5,Building decarbonization,66,11,0,#ebc334,,Portfolio Energy Optimization,11,0.5,0.23,,Portfolio Energy Optimization,,,0,0,0,0
+Global Cooling Prize,Buildings,4,Building decarbonization,66,12,1922139.25,#ebc334,,Global Cooling Prize,12,0.5,0.25,,Global Cooling Prize,,,1811949.55,0,110189.7,1922139.25
+Realize,Buildings,4,Building decarbonization,66,13,8001738.08,#ebc334,,Realize,13,0.5,0.27,,Realize,,,0,0,8001738.08,8001738.08
+NEMO,Building Electrification,6,Building decarbonization,67,15,4812526.31,#d6eb34,,Building Electrification (General),14,0.5,0.29,,Admin (BEL),,,4812526.31,0,0,4812526.31
+NEMO,Building Electrification,1,Building decarbonization,67,15,44770.89,#d6eb34,,NEMO,15,0.5,0.31,,NEMO,,,44770.89,0,0,44770.89
+ELP (General),Electricity,2,Power sector decarbonization,68,16,6447140.8,#77eb34,,ELP (General),16,0.5,0.33,,Admin (ELP),,,6247640.8,199500,0,6447140.8
+Coal End Game,Electricity,6.3,Power sector decarbonization,68,17,219330.61,#77eb34,,Coal End Game,17,0.5,0.35,,Coal End Game,,,132627.61,86703,0,219330.61
+Distributed grid infrastructure (CEP),Electricity,5,Power sector decarbonization,68,18,269132,#77eb34,,Distributed grid infrastructure (CEP),18,0.5,0.37,,Distributed grid infrastructure (CEP),,,125000,144132,0,269132
+Utility Models,Electricity,,Power sector decarbonization,68,19,0,#77eb34,,Utility Models,19,0.5,0.39,,Utility Models,,,0,0,0,0
+eLab,Electricity,4,Power sector decarbonization,68,20,1078109.18,#77eb34,,eLab,20,0.5,0.41,,eLab,,,170175.68,892933.5,15000,1078109.18
+Shine,Electricity,2,Legacy,68,21,0,#77eb34,,Shine,21,0.5,0.43,,Shine,,,0,0,0,0
+Business models and regulatory design,Electricity,8.7,Power sector decarbonization,68,22,788879.41,#77eb34,,Business models and regulatory design,22,0.5,0.45,,Business models and regulatory design,,,372236.98,416642.43,0,788879.41
+Zero carbon cities implementation,China,1,China Strategy,69,24,1311904.93,#34ebc3,,Admin (CHN),23,0.5,0.47,,Admin (CHN),,,1311904.93,0,0,1311904.93
+Zero carbon cities implementation,China,7,China Strategy,69,24,445287.94,#34ebc3,,Zero carbon cities implementation,24,0.5,0.49,,Zero carbon cities implementation,,,385287.94,60000,0,445287.94
+Power market reform,China,6,China Strategy,69,25,1740400,#34ebc3,,Power market reform,25,0.5,0.51,,Power market reform,,,780000,280000,680400,1740400
+Harder to abate,China,7,China Strategy,69,26,2904875.51,#34ebc3,,Harder to abate,26,0.5,0.53,,Harder to abate,,,2771990.51,132885,0,2904875.51
+US Mobility (General),Mobility,,Mobility decarbonization,70,27,345754.8,#34c9eb,,US Mobility (General),27,0.5,0.55,,Admin (Mobility),,,345754.8,0,0,345754.8
+EV grid,Mobility,2,Mobility decarbonization,70,28,83667,#34c9eb,,EV grid,28,0.5,0.57,,EV grid,,,0,83667,0,83667
+Mobility Innovation Lab,Mobility,3,Mobility decarbonization,70,29,40568,#34c9eb,,Mobility Innovation Lab,29,0.5,0.59,,Mobility Innovation Lab,,,0,40568,0,40568
+eBuses/fleets,Mobility,4,Mobility decarbonization,70,30,918070.65,#34c9eb,,eBuses/fleets,30,0.5,0.61,,eBuses/fleets,,,69183.05,573931.6,274956,918070.65
+Mobility data,Mobility,0,Mobility decarbonization,70,31,0,#34c9eb,,Mobility data,31,0.5,0.63,,Mobility data,,,0,0,0,0
+India (General),India,,India Strategy,71,32,5307713.99,#a6cff7,,India (General),32,0.5,0.65,,Admin (India),,,5164027.99,143686,0,5307713.99
+Urban Mobility Lab,India,7.5,India Strategy,71,33,0,#a6cff7,,Urban Mobility Lab,33,0.5,0.67,,Urban Mobility Lab,,,0,0,0,0
+National Mobility Platform,India,5,India Strategy,71,34,0,#a6cff7,,National Mobility Platform,34,0.5,0.69,,National Mobility Platform,,,0,0,0,0
+DISCOM transformation platform,India,3.5,India Strategy,71,35,400000,#a6cff7,,DISCOM transformation platform,35,0.5,0.71,,DISCOM transformation platform,,,0,400000,0,400000
+Third Derivative (Energy collaborative),RMI Ventures,2.3,Breakthrough technology,72,36,2145699.06,#eff7a6,,Third Derivative (Energy collaborative),36,,,,Third Derivative (Energy collaborative),,,2145699.06,0,0,2145699.06
+"Market affiliates (EWF, WattTime etc)",RMI Ventures,0,Making emissions visible,72,37,0,#eff7a6,,"Market affiliates (EWF, WattTime etc)",37,0.5,0.73,,"Market affiliates (EWF, WattTime etc)",,,0,0,0,0
+SEED,ECE,,Sharing the Power,73,38,7987812.87,#ffb3e6,,SEED,38,0.5,0.75,,Admin (SEED),,,3388855.37,333000,4265957.5,7987812.87
+Minigrids,ECE,2,Implementation unit,73,39,0,#ffb3e6,,Minigrids,39,0.5,0.77,,Minigrids,,,0,0,0,0
+Productive Use,ECE,6,Implementation unit,73,40,0,#ffb3e6,,Productive Use,40,0.5,0.79,,Productive Use,,,0,0,0,0
+Islands,ECE,11,Implementation unit,73,41,6380931.14,#ffb3e6,,Islands,41,,,,Islands,,,4523466.47,198018.47,1659446.2,6380931.14
+SE Asia,ECE,2,Implementation unit,73,42,0,#ffb3e6,,SE Asia,42,,,,SE Asia,,,0,0,0,0
+Power sector DERs,ECE,5,Implementation unit,73,43,0,#ffb3e6,,Power sector DERs,43,0.5,0.81,,Power sector DERs,,,0,0,0,0
+Climate Aligned Finance,Global Climate Finance,,Climate-aligned sectors,74,48,1473079.15,#ffb3b3,,Admin (GCF),44,0.5,0.83,,Admin (GCF),,,1473079.15,0,0,1473079.15
+Climate Finance Access Network,Global Climate Finance,2,Sharing the Power,74,45,6300000,#ffb3b3,,Climate Finance Access Network,45,0.5,0.85,,Climate Finance Access Network,,,0,0,6300000,6300000
+Coal Financing,Global Climate Finance,0.5,Power sector decarbonization,74,46,0,#ffb3b3,,Coal Financing,46,0.5,0.87,,Coal Financing,,,0,0,0,0
+Green Investment Bank,Global Climate Finance,2,Sharing the Power,74,47,230000,#ffb3b3,,Green Investment Bank,47,0.5,0.89,,Green Investment Bank,,,230000,0,0,230000
+Climate Aligned Finance,Global Climate Finance,7,Climate-aligned sectors,74,48,1305376.36,#ffb3b3,,Climate Aligned Finance,48,0.5,0.91,,Climate Aligned Finance,,,1305376.36,0,0,1305376.36
+Results Based Climate Finance,Global Climate Finance,4,Legacy,74,49,0,#ffb3b3,,Results Based Climate Finance,49,0.5,0.93,,Results Based Climate Finance,,,0,0,0,0
+Cities (General),Carbon-Free Cities and Regions,,Urban transformation,75,50,664835.48,#d2b3ff,,Cities (General),50,0.5,0.95,,Admin (CFCS),,,664835.48,0,0,664835.48
+America's Pledge,Carbon-Free Cities and Regions,4,US Policy,75,51,667642.59,#d2b3ff,,America's Pledge,51,,,,America's Pledge,,,667642.59,0,0,667642.59
+Beyond Carbon,Carbon-Free Cities and Regions,4,US Policy,75,52,2658122.22,#d2b3ff,,Beyond Carbon,52,,,,Beyond Carbon,,,2658122.22,0,0,2658122.22
+Cities Renewable Accelerator,Carbon-Free Cities and Regions,10,Urban transformation,75,53,1747856.56,#d2b3ff,,Cities Renewable Accelerator,53,,,,Cities Renewable Accelerator,,,1747856.56,0,0,1747856.56
+ES (General),Emerging Solutions,,Emerging Solutions [PC],76,54,674856.36,#deff63,,ES (General),54,,,,Admin (ES),,,674856.36,0,0,674856.36
+Pathways for Global Energy Transformation,Emerging Solutions,6,Emerging Solutions [PC],76,55,0,#deff63,,Pathways for Global Energy Transformation,55,,,,Pathways for Global Energy Transformation,,,0,0,0,0
+Global Energy Solutions Lab,Emerging Solutions,5,Emerging Solutions [PC],76,56,0,#deff63,,Global Energy Solutions Lab,56,,,,Global Energy Solutions Lab,,,0,0,0,0
+Integrative Design,Emerging Solutions,1,Legacy,76,57,0,#deff63,,Integrative Design,57,,,,Integrative Design,,,0,0,0,0
+COM,Communications,,Communications [PC],77,58,0,#ff8833,,COM,58,,,,COM,,,0,0,0,0
+DEV,Development,,Development [PC],78,59,0,#d9d9d9,,DEV,59,,,,DEV,,,0,0,0,0
+CEO Admin,Operations,,Operations [PC],79,60,0,#32a852,,CEO Admin,60,,,,CEO Admin,,,0,0,0,0
+Finance,Operations,,Operations [PC],79,61,0,#32a852,,Finance,61,,,,Finance,,,0,0,0,0
+HR,Operations,,Operations [PC],79,62,0,#32a852,,HR,62,,,Right half of sankey below this line,HR,,,0,0,0,0
+IT,Operations,,Operations [PC],79,63,0,#32a852,,IT,63,,,,IT,,,0,0,0,0
+PMO,Operations,,Operations [PC],79,64,0,#32a852,,PMO,64,,,,PMO,,,0,0,0,0
+Methane,Industry,,Making emissions visible,3,82,50000,#edbd93,,Industry,65,0.1,0.05,,Admin (INY),,,50000,,,
+Aviation,Industry,2,Legacy,1,87,0,#edbd93,,Buildings,66,0.1,0.14,,Aviation,,,0,,,
+Freight and transport,Industry,2,Mobility decarbonization,2,81,563850.31,#edbd93,,Building Electrification,67,0.1,0.23,,Freight and transport,,,645519.31,,,
+Methane,Industry,8,Making emissions visible,3,82,2932909.88,#edbd93,,Electricity,68,0.1,0.32,,Methane,,,3100413.38,,,
+Mining,Industry,7,Legacy,4,87,616830.35,#edbd93,,China,69,0.1,0.41,,Mining,,,1074211.85,,,
+COMET,Industry,2,Making emissions visible,5,82,225000,#edbd93,,Mobility,70,0.1,0.5,,COMET,,,450000,,,
+Hydrogen,Industry,Not listed,Breakthrough technology,6,83,0,#edbd93,,India,71,0.1,0.59,,Hydrogen,,,0,,,
+Green steel,Industry,Not listed,Climate-aligned sectors,7,80,0,#edbd93,,RMI Ventures,72,0.1,0.68,,Green steel,,,0,,,
+Buildings (General),Buildings,3,Building decarbonization,8,84,2396473.11,#ebc334,,ECE,73,0.1,0.77,,Admin (BLD),,,2396473.11,,,
+Pathways to Zero,Buildings,6,Building decarbonization,9,84,862871.46,#ebc334,,Global Climate Finance,74,0.1,0.86,,Pathways to Zero,,,1611138.79,,,
+Residential Energy +,Buildings,3,Building decarbonization,10,84,280000,#ebc334,,Carbon-Free Cities and Regions,75,0.1,0.95,,Residential Energy +,,,560000,,,
+Portfolio Energy Optimization,Buildings,5,Building decarbonization,11,84,0,#ebc334,,Emerging Solutions,76,0.9,0.05,,Portfolio Energy Optimization,,,0,,,
+Global Cooling Prize,Buildings,4,Building decarbonization,12,84,1922139.25,#ebc334,,Communications,77,0.9,0.15,,Global Cooling Prize,,,2032328.95,,,
+Realize,Buildings,4,Building decarbonization,13,84,8001738.08,#ebc334,,Development,78,0.9,0.25,,Realize,,,16003476.16,,,
+NEMO,Building Electrification,6,Building decarbonization,15,84,4812526.31,#d6eb34,,Operations,79,0.9,0.35,,Admin (BEL),,,4812526.31,,,
+NEMO,Building Electrification,1,Building decarbonization,15,84,44770.89,#d6eb34,,Climate-aligned sectors,80,0.9,0.45,,NEMO,,,44770.89,,,
+ELP (General),Electricity,2,Power sector decarbonization,16,85,6447140.8,#77eb34,,Mobility decarbonization,81,0.9,0.55,,Admin (ELP),,,6646640.8,,,
+Coal End Game,Electricity,6.3,Power sector decarbonization,17,85,219330.61,#77eb34,,Making emissions visible,82,0.9,0.65,,Coal End Game,,,306033.61,,,
+Distributed grid infrastructure (CEP),Electricity,5,Power sector decarbonization,18,85,269132,#77eb34,,Breakthrough technology,83,0.9,0.75,,Distributed grid infrastructure (CEP),,,413264,,,
+Utility Models,Electricity,,Power sector decarbonization,19,85,0,#77eb34,,Building decarbonization,84,0.9,0.85,,Utility Models,,,0,,,
+eLab,Electricity,4,Power sector decarbonization,20,85,1078109.18,#77eb34,,Power sector decarbonization,85,0.9,0.95,,eLab,,,1986042.68,,,
+Shine,Electricity,2,Legacy,21,87,0,#77eb34,,Urban transformation,86,,,,Shine,,,0,,,
+Business models and regulatory design,Electricity,8.7,Power sector decarbonization,22,85,788879.41,#77eb34,,Legacy,87,,,,Business models and regulatory design,,,1205521.84,,,
+Zero carbon cities implementation,China,1,China Strategy,24,95,1311904.93,#34ebc3,,Sharing the Power,88,,,,Admin (CHN),,,1311904.93,,,
+Zero carbon cities implementation,China,7,China Strategy,24,95,445287.94,#34ebc3,,Implementation unit,89,,,,Zero carbon cities implementation,,,505287.94,,,
+Power market reform,China,6,China Strategy,25,95,1740400,#34ebc3,,Emerging Solutions [PC],90,,,,Power market reform,,,2700800,,,
+Harder to abate,China,7,China Strategy,26,95,2904875.51,#34ebc3,,US Policy,91,,,,Harder to abate,,,3037760.51,,,
+US Mobility (General),Mobility,,Mobility decarbonization,27,81,345754.8,#34c9eb,,Communications [PC],92,,,,Admin (Mobility),,,345754.8,,,
+EV grid,Mobility,2,Mobility decarbonization,28,81,83667,#34c9eb,,Development [PC],93,,,,EV grid,,,167334,,,
+Mobility Innovation Lab,Mobility,3,Mobility decarbonization,29,81,40568,#34c9eb,,Operations [PC],94,,,,Mobility Innovation Lab,,,81136,,,
+eBuses/fleets,Mobility,4,Mobility decarbonization,30,81,918070.65,#34c9eb,,China Strategy,95,,,,eBuses/fleets,,,1766958.25,,,
+Mobility data,Mobility,0,Mobility decarbonization,31,81,0,#34c9eb,,India Strategy,96,,,,Mobility data,,,0,,,
+India (General),India,,India Strategy,32,96,5307713.99,#a6cff7,,,,,,,Admin (India),,,5451399.99,,,
+Urban Mobility Lab,India,7.5,India Strategy,33,96,0,#a6cff7,,,,,,,Urban Mobility Lab,,,0,,,
+National Mobility Platform,India,5,India Strategy,34,96,0,#a6cff7,,,,,,,National Mobility Platform,,,0,,,
+DISCOM transformation platform,India,3.5,India Strategy,35,96,400000,#a6cff7,,,,,,,DISCOM transformation platform,,,800000,,,
+Third Derivative (Energy collaborative),RMI Ventures,2.3,Breakthrough technology,36,83,2145699.06,#eff7a6,,,,,,,Third Derivative (Energy collaborative),,,2145699.06,,,
+"Market affiliates (EWF, WattTime etc)",RMI Ventures,0,Making emissions visible,37,82,0,#eff7a6,,,,,,,"Market affiliates (EWF, WattTime etc)",,,0,,,
+SEED,ECE,,Sharing the Power,38,88,7987812.87,#ffb3e6,,,,,,,Admin (SEED),,,12586770.37,,,
+Minigrids,ECE,2,Implementation unit,39,89,0,#ffb3e6,,,,,,,Minigrids,,,0,,,
+Productive Use,ECE,6,Implementation unit,40,89,0,#ffb3e6,,,,,,,Productive Use,,,0,,,
+Islands,ECE,11,Implementation unit,41,89,6380931.14,#ffb3e6,,,,,,,Islands,,,8238395.81,,,
+SE Asia,ECE,2,Implementation unit,42,89,0,#ffb3e6,,,,,,,SE Asia,,,0,,,
+Power sector DERs,ECE,5,Implementation unit,43,89,0,#ffb3e6,,,,,,,Power sector DERs,,,0,,,
+Climate Aligned Finance,Global Climate Finance,,Climate-aligned sectors,48,80,1473079.15,#ffb3b3,,,,,,,Admin (GCF),,,1473079.15,,,
+Climate Finance Access Network,Global Climate Finance,2,Sharing the Power,45,88,6300000,#ffb3b3,,,,,,,Climate Finance Access Network,,,12600000,,,
+Coal Financing,Global Climate Finance,0.5,Power sector decarbonization,46,85,0,#ffb3b3,,,,,,,Coal Financing,,,0,,,
+Green Investment Bank,Global Climate Finance,2,Sharing the Power,47,88,230000,#ffb3b3,,,,,,,Green Investment Bank,,,230000,,,
+Climate Aligned Finance,Global Climate Finance,7,Climate-aligned sectors,48,80,1305376.36,#ffb3b3,,,,,,,Climate Aligned Finance,,,1305376.36,,,
+Results Based Climate Finance,Global Climate Finance,4,Legacy,49,87,0,#ffb3b3,,,,,,,Results Based Climate Finance,,,0,,,
+Cities (General),Carbon-Free Cities and Regions,,Urban transformation,50,86,664835.48,#d2b3ff,,,,,,,Admin (CFCS),,,664835.48,,,
+America's Pledge,Carbon-Free Cities and Regions,4,US Policy,51,91,667642.59,#d2b3ff,,,,,,,America's Pledge,,,667642.59,,,
+Beyond Carbon,Carbon-Free Cities and Regions,4,US Policy,52,91,2658122.22,#d2b3ff,,,,,,,Beyond Carbon,,,2658122.22,,,
+Cities Renewable Accelerator,Carbon-Free Cities and Regions,10,Urban transformation,53,86,1747856.56,#d2b3ff,,,,,,,Cities Renewable Accelerator,,,1747856.56,,,
+ES (General),Emerging Solutions,,Emerging Solutions [PC],54,90,674856.36,#deff63,,,,,,,Admin (ES),,,674856.36,,,
+Pathways for Global Energy Transformation,Emerging Solutions,6,Emerging Solutions [PC],55,90,0,#deff63,,,,,,,Pathways for Global Energy Transformation,,,0,,,
+Global Energy Solutions Lab,Emerging Solutions,5,Emerging Solutions [PC],56,90,0,#deff63,,,,,,,Global Energy Solutions Lab,,,0,,,
+Integrative Design,Emerging Solutions,1,Legacy,57,87,0,#deff63,,,,,,,Integrative Design,,,0,,,
+COM,Communications,,Communications [PC],58,92,0,#ff8833,,,,,,,COM,,,0,,,
+DEV,Development,,Development [PC],59,93,0,#d9d9d9,,,,,,,DEV,,,0,,,
+CEO Admin,Operations,,Operations [PC],60,94,0,#32a852,,,,,,,CEO Admin,,,0,,,
+Finance,Operations,,Operations [PC],61,94,0,#32a852,,,,,,,Finance,,,0,,,
+HR,Operations,,Operations [PC],62,94,0,#32a852,,,,,,,HR,,,0,,,
+IT,Operations,,Operations [PC],63,94,0,#32a852,,,,,,,IT,,,0,,,
+PMO,Operations,,Operations [PC],64,94,0,#32a852,,,,,,,PMO,,,0,,,
